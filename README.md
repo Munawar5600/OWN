@@ -1,16 +1,16 @@
-<h1 align="center">KING</h1>
+<h1 align="center">OWN</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Munawar/KING?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Munawar/KING?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/Munawar/KING?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/Munawar/KING?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Munawar/KING?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/Munawar/KING.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/MUNAWAR5600/OWN?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MUNAWAR5600/OWN?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MUNAWAR5600/OWN?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MUNAWAR5600/OWN?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MUNAWAR5600/OWN?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/MUNAWAR5600/OWN.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-Munawar-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-MUNAWAR5600-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
@@ -36,33 +36,33 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/Munawar/KING```
+ - ```git clone https://github.com/MUNAWAR5600/OWN```
 
 ##### Enter the directory
- - ```cd KING```
+ - ```cd OWN```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 KING.py```
+ - ```python3 OWN.py```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/Munawar/KING/main/KING.py && python3 KING.py
+wget https://raw.githubusercontent.com/MUNAWAR5600/OWN/main/OWN.py && python3 OWN.py
 
 ```
 
 ### Pip
- - `pip3 install KING` [For Termux]
- - `sudo pip3 install KING --break-system-packages` [For Linux]
- - `KING`
+ - `pip3 install OWN` [For Termux]
+ - `sudo pip3 install OWN --break-system-packages` [For Linux]
+ - `OWN`
 
 ### Docker
 
- - `sudo docker pull Munawar/KING`
- - `sudo docker run --rm -it Munawar/KING`
- - `sudo docker cp $(sudo docker ps | grep KING | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
+ - `sudo docker pull MUNAWAR5600/OWN`
+ - `sudo docker run --rm -it MUNAWAR5600/OWN`
+ - `sudo docker cp $(sudo docker ps | grep OWN | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
 
 
 
@@ -80,7 +80,7 @@ BSD        | Never tested
 #### Options
 
 ```
-usage: KING.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
+usage: OWN.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
                      [-T TUNNELER] [-r REGION] [-S SUBDOMAIN]
                      [-d DIRECTORY] [-f FEST] [-i YTID] [-u URL]
                      [-s DURATION] [-m MODE] [-e TROUBLESHOOT]
@@ -88,11 +88,11 @@ usage: KING.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
 
 options:
   -h, --help            show this help message and exit
-  -p PORT, --port PORT  KING's server port [Default : 8080]
-  -t TYPE, --type TYPE  KING's phishing type index [Default :
+  -p PORT, --port PORT  OWN's server port [Default : 8080]
+  -t TYPE, --type TYPE  OWN's phishing type index [Default :
                         null]
   -o OPTION, --option OPTION
-                        KING's template index [ Default : null ]
+                        OWN's template index [ Default : null ]
   -T TUNNELER, --tunneler TUNNELER
                         Tunneler to be chosen while url shortening
                         [Default : Cloudflared]
@@ -108,17 +108,17 @@ options:
                         Birthday]
   -i YTID, --ytid YTID  Youtube video ID for yttv template [Default :
                         6hHmkInZkMQ (NASA Video)]
-  -u URL, --url URL     Redirection url for ip-tracking or login
+  -u URL, --url URL     Redirection url for ip-tracOWN or login
                         phishing [Default : null]
   -s DURATION, --duration DURATION
                         Media duration while capturing [Default :
                         5000(ms)]
-  -m MODE, --mode MODE  Mode of KING [Default: normal]
+  -m MODE, --mode MODE  Mode of OWN [Default: normal]
   -e TROUBLESHOOT, --troubleshoot TROUBLESHOOT
                         Troubleshoot a tunneler [Default: null]
   --nokey               Use localtunnel without ssh key [Default:
                         False]
-  --noupdate            Skip update checking [Default : False]
+  --noupdate            Skip update checOWN [Default : False]
 ```
 
 ### Features:
@@ -130,8 +130,8 @@ options:
  - Credentials mailing
  - Easy to use
  - Possible error diagnoser
- - Built-in masking of URL
- - Custom masking of URL
+ - Built-in masOWN of URL
+ - Custom masOWN of URL
  - URL Shadowing
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
@@ -167,39 +167,39 @@ If not found, php, ssh and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![KING](https://raw.githubusercontent.com/Munawar/KING/main/files/KING.gif)
+![OWN](https://raw.githubusercontent.com/MUNAWAR5600/OWN/main/files/OWN.gif)
 
  
 ## Solution of common issues
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
  - Termux from play store in not supported. Download termux from fdroid or github
  - VPN or proxy prevents tunneling and even proper internet access. Turn them off you have issues.
- - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close KING.
+ - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close OWN.
  - If you want mailing credentials then you need to use app password. Visit [here](https://myaccount.google.com/u/0/apppasswords) and generate an app password, put that in `files/email.json`. You may need to enable 2FA before it.
 
 ## [!] Disclaimer
-***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of KING!***
+***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of OWN!***
 
 ### [*] Support
 ####  Want to show support? Just spread the word and smash the star button
 ###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
 
 ## Credits:
-[PyPhisher](https://github.com/Munawar/PyPhisher)
-[CamHacker](https://github.com/Munawar/CamHacker)
-[VidPhisher](https://github.com/Munawar/VidPhisher)
-[IP-Tracker](https://github.com/Munawar/IP-Tracker)
+[PyPhisher](https://github.com/MUNAWAR5600/PyPhisher)
+[CamHacker](https://github.com/MUNAWAR5600/CamHacker)
+[VidPhisher](https://github.com/MUNAWAR5600/VidPhisher)
+[IP-Tracker](https://github.com/MUNAWAR5600/IP-Tracker)
 [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 [Seeker](https://github.com/thewhiteh4t/seeker)
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-Munawar-green?style=for-the-badge&logo=github)](https://github.com/Munawar)
+- [![Github](https://img.shields.io/badge/Github-MUNAWAR5600-green?style=for-the-badge&logo=github)](https://github.com/MUNAWAR5600)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-Munawar-green?style=for-the-badge&logo=gmail)](mailto:Munawarkrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-MUNAWAR5600-green?style=for-the-badge&logo=gmail)](mailto:MUNAWAR5600krd@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-Munawar-green?style=for-the-badge&logo=facebook)](https://facebook.com/Munawar)
+- [![Facebook](https://img.shields.io/badge/Facebook-MUNAWAR5600-green?style=for-the-badge&logo=facebook)](https://facebook.com/MUNAWAR5600)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Munawar-green?style=for-the-badge&logo=messenger)](https://m.me/Munawar)
+- [![Messenger](https://img.shields.io/badge/Messenger-MUNAWAR5600-green?style=for-the-badge&logo=messenger)](https://m.me/MUNAWAR5600)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Munawar-indigo?style=for-the-badge&logo=telegram)](https://t.me/Munawar)
+- [![Telegram](https://img.shields.io/badge/Telegram-MUNAWAR5600-indigo?style=for-the-badge&logo=telegram)](https://t.me/MUNAWAR5600)
