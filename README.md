@@ -1,18 +1,16 @@
 <h1 align="center">OWN</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/MUNAWAR5600/OWN?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/MUNAWAR5600/OWN?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/watchers/MUNAWAR5600/OWN?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/issues/MUNAWAR5600/OWN?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/license/MUNAWAR5600/OWN?style=for-the-badge&color=blue">
   <img src="https://hits.dwyl.com/MUNAWAR5600/OWN.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-MUNAWAR5600-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-M.Munawar Mujahid-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
@@ -26,13 +24,13 @@
 ##### Install primary dependencies (git, python)
 
  - For Debian (Ubuntu, Kali-Linux, Parrot)
-    - ```sudo apt install git python3 php openssh-client -y```
+    - ```sudo apt install git python php openssh-client -y```
  - For Arch (Manjaro)
-    - ```sudo pacman -S git python3 php openssh --noconfirm```
+    - ```sudo pacman -S git python php openssh --noconfirm```
  - For Redhat(Fedora)
-    - ```sudo dnf install git python3 php openssh -y```
+    - ```sudo dnf install git python php openssh -y```
  - For Termux
-    - ```pkg install git python3 php openssh -y```
+    - ```pkg install git python php openssh -y```
 
 ##### Clone this repository
 
@@ -41,11 +39,8 @@
 ##### Enter the directory
  - ```cd OWN```
 
-##### Install all modules
- - ```pip3 install -r files/requirements.txt --break-system-packages```
-
 ##### Run the tool
- - ```python3 OWN.py```
+ - ```python OWN.py```
 
 #### Or, directly run
 ```
@@ -140,8 +135,8 @@ options:
 ### Requirements
 
  - `Python(3)`
-   - `requests`
-   - `rich`
+ - `requests`
+ - `rich`
  - `PHP`
  - `SSH`
  - 900MB storage
@@ -194,12 +189,4 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-MUNAWAR5600-green?style=for-the-badge&logo=github)](https://github.com/MUNAWAR5600)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-MUNAWAR5600-green?style=for-the-badge&logo=gmail)](mailto:MUNAWAR5600krd@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-MUNAWAR5600-green?style=for-the-badge&logo=facebook)](https://facebook.com/MUNAWAR5600)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-MUNAWAR5600-green?style=for-the-badge&logo=messenger)](https://m.me/MUNAWAR5600)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-MUNAWAR5600-indigo?style=for-the-badge&logo=telegram)](https://t.me/MUNAWAR5600)
+- [![Whatsapp](https://img.shields.io/badge/Whatsapp+92319 1755119-green?style=for-the-badge&logo=Whatsapp)](https://wa.me/+92319 1755119)
